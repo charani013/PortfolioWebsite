@@ -1,0 +1,245 @@
+.portfolio-logo {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #4b6cc1;
+  padding: 11px;
+  color: white;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#portfolio-items {
+  color: white;
+}
+
+#portfolio-items1 {
+  color: white;
+}
+
+#portfolio-items2 {
+  color: white;
+}
+
+#portfolio-items3 {
+  color: white;
+}
+
+.portfolio-bgclr {
+  background-color: #191a1d;
+  height: 100vh;
+  background-size: cover;
+}
+
+.portfolio-img {
+  height: 200px;
+  width: 200px;
+  margin-bottom: 8px;
+}
+
+.portfolio-heading {
+  font-family: Roboto;
+  font-size: 15px;
+  color: white;
+}
+
+.portfolio-heading-blue {
+  color: #4b6cc1;
+}
+
+.portfolio-paragraph {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #9aa5b1;
+}
+
+.portfolio-button {
+  font-family: Roboto;
+  font-size: 13px;
+  height: 40px;
+  width: 110px;
+  border-radius: 5px;
+  border-width: 0px;
+  color: white;
+  background-color: #4b6cc1;
+}
+.portfolio-aboutme-bgclr {
+  background-color: #323f4b;
+}
+
+.portfolio-aboutme-paragraph {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #cced00;
+}
+
+.portfolio-aboutme-heading2 {
+  font-family: Roboto;
+  font-size: 25px;
+  color: white;
+}
+
+.portfolio-aboutme-paragraph1 {
+  font-family: Roboto;
+  font-size: 13px;
+  color: #9aa5b1;
+}
+
+.portfolio-aboutme-bgclr2 {
+  background-color: #1f2933;
+}
+
+.rbgclr {
+  border-radius: 5px;
+}
+
+.portfolio-aboutme-imgcards {
+  height: 50px;
+  width: 50px;
+}
+.porfolio-bgclr {
+  background-color: #3e4c59;
+}
+
+.porfolio-paragarph {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #cced00;
+}
+
+.porfolio-heading {
+  font-family: Roboto;
+  font-size: 25px;
+  color: white;
+}
+
+.porfolio-bgclr2 {
+  background-color: #323f4b;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+
+.porfolio-paragarph1 {
+  font-family: Roboto;
+  font-size: 12px;
+  color: #9aa5b1;
+}
+
+.porfolio-heading {
+  font-family: Roboto;
+  font-size: 20px;
+  color: white;
+}
+.portfolio-services-bgclr {
+  background-color: #52606d;
+}
+
+.portfolio-services-paragraph {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #cced00;
+}
+
+.portfolio-services-heading {
+  font-family: Roboto;
+  font-size: 25px;
+  color: white;
+}
+
+.portfolio-services-bgclr2 {
+  background-color: #323f4b;
+  border-radius: 8px;
+}
+
+.portfolio-services-imgcrads {
+  height: 50px;
+  width: 50px;
+  margin-bottom: 5px;
+}
+.portfolio-workdone-bgimg {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+  background-size: cover;
+}
+
+.portfolio-workdone-icons {
+  height: 50px;
+  width: 50px;
+}
+
+.portfolio-workdone-heading {
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+}
+.portfolio-website-ts-bgclr {
+  background-color: #1f2933;
+}
+
+.portfolio-website-ts-paragraph {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #cced00;
+}
+
+.portfolio-website-ts-heading {
+  font-family: Roboto;
+  font-size: 25px;
+  color: white;
+}
+
+.portfolio-website-ts-bgclr1 {
+  background-color: #323f4b;
+}
+
+.portfolio-website-ts-imgcards {
+  border-radius: 50px;
+  height: 100px;
+  width: 100px;
+}
+
+.portfolio-website-ts-paragraph1 {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #9aa5b1;
+}
+
+.portfolio-website-ts-heading1 {
+  font-family: Roboto;
+  font-size: 15px;
+  color: white;
+}
+
+.portfolio-footer-bgclr {
+  background-color: #0d2436;
+}
+
+.footer-img {
+  height: 70px;
+  width: 70px;
+  border-radius: 50px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.portfolio-footer-heding {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #cced00;
+  font-weight: 700;
+}
+
+.portfolio-footer-paragraph {
+  font-family: Roboto;
+  font-size: 11px;
+  color: #9aa5b1;
+  margin-top: 8px;
+}
+
+.portfolio-footer-icons {
+  color: #5a7184;
+}
+
+.portfolio-footer-bgclr1 {
+  color: #001c32;
+}
